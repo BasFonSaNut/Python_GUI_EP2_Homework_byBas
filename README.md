@@ -1,7 +1,7 @@
 # Python_GUI_EP2_Homework_byBas
 - ส่งการบ้าน โดยน้อง บาส ศิษย์แม่บุญญา 
 - การบ้าน git node นี้โมจากเนื้อหา GUI EP2. lab ขายทุเรียน
-- เขียนด้วย Vscode ,database เลือก sqlite
+- Editor Vscode ,database เลือก sqlite
 - ประกอบด้วย 2 ไฟล์ db.py จัดการด้านดาต้าเบส และ durianshop.py 
 - run ด้วย python durianshop.py
 
